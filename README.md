@@ -1,3 +1,3 @@
 # Demo
 
-to test
+to test . 
